@@ -47,7 +47,7 @@ I specialize in **Laravel**, **Vue.js**, and **Inertia.js**, with experience in 
 <p>
   🌍 **Portfolio:** [salihinhub.my](https://salihinhub.my)  
   
-  💼 **LinkedIn:** [linkedin.com/in/muhdsalihin](https://linkedin.com/in/muhdsalihin)  
+  💼 **LinkedIn:** [linkedin.com/in/muhdsalihin](https://www.linkedin.com/in/muhd-salihin-3106802a2/)  
   
   📧 **Email:** muhdsalihinazizizol@gmail.com  
   

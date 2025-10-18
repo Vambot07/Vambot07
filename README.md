@@ -70,7 +70,10 @@ I specialize in **Laravel**, **Vue.js**, and **Inertia.js**, with experience in 
 
 ---
 
-![snake gif](https://github.com/Vambot07/Vambot07/blob/output/github-snake-dark.svg)
+<div align="center">
+  ![snake gif](https://github.com/Vambot07/Vambot07/blob/output/github-snake-dark.svg)
+</div>
+
 
 ### 🧩 Quote to Remember  
 > "The best way to predict the future is to create it." — Peter Drucker

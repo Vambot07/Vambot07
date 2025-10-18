@@ -40,15 +40,18 @@ I specialize in **Laravel**, **Vue.js**, and **Inertia.js**, with experience in 
 |----------|--------------|
 | 🔹 **RENOPE** | Trainee notification system for attendance and discipline tracking with guardian updates. |
 | 🔹 **JobHub** | Job application website connecting companies and jobseekers. |
-| 🔹 **ChefiePie** | A mobile app for culinary enthusiasts to explore, save, and share recipes built with Firebase authentication and React Native. |
+| 🔹**ChefiePie** | A mobile app for culinary enthusiasts to explore, save, and share recipes built with Firebase authentication and React Native. |
 ---
 
 ### 🌐 Connect With Me  
 <p>
   🌍 **Portfolio:** [salihinhub.my](https://salihinhub.my)  
+  
   💼 **LinkedIn:** [linkedin.com/in/muhdsalihin](https://linkedin.com/in/muhdsalihin)  
+  
   📧 **Email:** muhdsalihinazizizol@gmail.com  
-  📸 **Instagram:** [instagram.com/muhdsalihin.azizizol](https://instagram.com/muhdsalihin.azizizol)
+  
+  📸 **Instagram:** [instagram.com/mhd_slhin](https://instagram.com/mhd_slhin)
 </p>
 
 ---

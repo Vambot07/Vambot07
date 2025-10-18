@@ -72,9 +72,9 @@ I specialize in **Laravel**, **Vue.js**, and **Inertia.js**, with experience in 
 
 ---
 
-### 🎮 Play My Mini Game!
+### 🐍 GitHub Contribution Snake
 
-[![Play Snake Game](https://img.shields.io/badge/🕹️%20Play%20Snake%20Game-Click%20Here-brightgreen?style=for-the-badge)](https://vambot07.github.io/snake-game/)
+![snake gif](https://github.com/Vambot07/Vambot07/blob/output/github-contribution-grid-snake.svg)
 
 ---
 

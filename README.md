@@ -72,6 +72,12 @@ I specialize in **Laravel**, **Vue.js**, and **Inertia.js**, with experience in 
 
 ---
 
+### 🎮 Play My Mini Game!
+
+[![Play Snake Game](https://img.shields.io/badge/🕹️%20Play%20Snake%20Game-Click%20Here-brightgreen?style=for-the-badge)](https://vambot07.github.io/snake-game/)
+
+---
+
 ### 🧩 Quote to Remember  
 > "The best way to predict the future is to create it." — Peter Drucker
 

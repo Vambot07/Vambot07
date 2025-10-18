@@ -40,9 +40,8 @@ I specialize in **Laravel**, **Vue.js**, and **Inertia.js**, with experience in 
 |----------|--------------|
 | 🔹 **RENOPE** | Trainee notification system for attendance and discipline tracking with guardian updates. |
 | 🔹 **JobHub** | Job application website connecting companies and jobseekers. |
-| 🔹 **ListenCare WellBot** | AI-powered emotional well-being assistant using Raspberry Pi. |
 | 🔹 **Edu.fitweb** | Educational web platform for student activity tracking. |
-
+| 🔹 **ChefiePie** | A mobile app for culinary enthusiasts to explore, save, and share recipes built with Firebase authentication and React Native. |
 ---
 
 ### 🌐 Connect With Me  

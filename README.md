@@ -43,13 +43,22 @@ I specialize in **Laravel**, **Vue.js**, and **Inertia.js**, with experience in 
 | 🔹**ChefiePie** | A mobile app for culinary enthusiasts to explore, save, and share recipes built with Firebase authentication and React Native. |
 ---
 
+---
+
 ### 🌐 Connect With Me  
-<p>
-  💼 **LinkedIn:** [linkedin.com/in/muhdsalihin](https://www.linkedin.com/in/muhd-salihin-3106802a2/)  
-  
-  📧 **Email:** muhdsalihinazizizol@gmail.com  
-  
-  📸 **Instagram:** [instagram.com/mhd_slhin](https://instagram.com/mhd_slhin)
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/muhd-salihin-3106802a2/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="40" alt="LinkedIn"/>
+  </a>
+  &nbsp;
+  <a href="mailto:muhdsalihinazizizol@gmail.com" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="40" alt="Email"/>
+  </a>
+  &nbsp;
+  <a href="https://instagram.com/mhd_slhin" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" width="40" alt="Instagram"/>
+  </a>
 </p>
 
 ---
@@ -70,10 +79,14 @@ I specialize in **Laravel**, **Vue.js**, and **Inertia.js**, with experience in 
 
 ---
 
-<div align="center">
-  ![snake gif](https://github.com/Vambot07/Vambot07/blob/output/github-snake-dark.svg)
-</div>
 
+### 🐍 GitHub Contribution Snake  
+
+<p align="center">
+  <img src="https://github.com/Vambot07/Vambot07/blob/output/github-snake-dark.svg" alt="snake animation"/>
+</p>
+
+---
 
 ### 🧩 Quote to Remember  
 > "The best way to predict the future is to create it." — Peter Drucker

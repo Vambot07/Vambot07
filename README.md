@@ -5,7 +5,7 @@
 
 ### 🧠 About Me  
 I'm a passionate **Software Engineering student** who enjoys turning ideas into real-world web applications.  
-I specialize in **Laravel**, **Vue.js**, and **Inertia.js**, with experience in creating systems that help people manage data and work efficiently.  
+I specialize in **Laravel**, **React Native**, **Vue.js**, and **Inertia.js**, with experience in creating systems that help people manage data and work efficiently.  
 
 - 🎓 Currently studying **Software Engineering** at **University of Malaya**  
 - 🚀 Exploring **AI integration** and **modern web frameworks**  
